@@ -6,6 +6,9 @@
 
 section {
     text-align: center;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 img {
@@ -18,9 +21,9 @@ img {
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
-    padding: 35px, 0px, 95px;
-    margin-top: 30px;
+    padding: 35px, 0px, 35px;
     margin-left: 30px;
+    margin-bottom: 30px;
     text-align: center;
 }
 .card2 {
@@ -28,9 +31,9 @@ img {
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
-    padding: 35px, 0px, 95px;
-    margin-top: 30px;
+    padding: 35px, 0px, 35px;
     margin-left: 30px;
+    margin-bottom: 30px;
     text-align: center;
 }  
 .card3 {
@@ -38,9 +41,9 @@ img {
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
-    padding: 35px, 0px, 95px;
-    margin-top: 30px;
+    padding: 35px, 0px, 35px;
     margin-left: 30px;
+    margin-bottom: 30px;
     text-align: center;
 }
 .card4 {
@@ -48,8 +51,7 @@ img {
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
-    padding: 35px, 0px, 95px;
-    margin-top: 30px;
+    padding: 35px, 0px, 35px;
     margin-left: 30px;
     text-align: center;
 }
@@ -58,8 +60,7 @@ img {
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
-    padding: 35px, 0px, 95px;
-    margin-top: 30px;
+    padding: 35px, 0px, 35px;
     margin-left: 30px;
     text-align: center;
 }
@@ -68,8 +69,7 @@ img {
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
-    padding: 35px, 0px, 95px;
-    margin-top: 30px;
+    padding: 35px, 0px, 35px;
     margin-left: 30px;
     text-align: center;
 }
