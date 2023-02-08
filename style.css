@@ -6,9 +6,6 @@
 
 section {
     text-align: center;
-    margin-top: 100px;
-    margin-left: 500px;
-    margin-right: 500px;
 }
 
 img {
@@ -16,60 +13,14 @@ img {
     height: 130px;
 }
 
-.card1 {
+.card {
     display: inline-block;
     width: 200px;
     height: 226px;
     background-color: #e0e0e0;
     padding: 35px, 0px, 35px;
-    margin-left: 30px;
-    margin-bottom: 30px;
-    text-align: center;
-}
-.card2 {
-    display: inline-block;
-    width: 200px;
-    height: 226px;
-    background-color: #e0e0e0;
-    padding: 35px, 0px, 35px;
-    margin-left: 30px;
-    margin-bottom: 30px;
-    text-align: center;
-}  
-.card3 {
-    display: inline-block;
-    width: 200px;
-    height: 226px;
-    background-color: #e0e0e0;
-    padding: 35px, 0px, 35px;
-    margin-left: 30px;
-    margin-bottom: 30px;
-    text-align: center;
-}
-.card4 {
-    display: inline-block;
-    width: 200px;
-    height: 226px;
-    background-color: #e0e0e0;
-    padding: 35px, 0px, 35px;
-    margin-left: 30px;
-    text-align: center;
-}
-.card5 {
-    display: inline-block;
-    width: 200px;
-    height: 226px;
-    background-color: #e0e0e0;
-    padding: 35px, 0px, 35px;
-    margin-left: 30px;
-    text-align: center;
-}
-.card6 {
-    display: inline-block;
-    width: 200px;
-    height: 226px;
-    background-color: #e0e0e0;
-    padding: 35px, 0px, 35px;
-    margin-left: 30px;
+    /* margin-left: 30px;
+    margin-bottom: 30px; */
+    margin: 30px;
     text-align: center;
 }
